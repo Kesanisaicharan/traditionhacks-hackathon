@@ -40,4 +40,4 @@ streamlit run app.py
 - Behala
 
 ## 👥 Team
-Tradition Hacks 2025 Submission
+Tradition Hacks 2026 Submission
